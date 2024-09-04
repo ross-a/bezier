@@ -1,8 +1,6 @@
 /* [[file:../../blender.org::*Bezier Curve][Bezier Curve:2]] */
 package bezier
 
-
-
 import "core:fmt"
 import "core:mem"
 import "core:log"

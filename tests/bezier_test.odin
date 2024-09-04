@@ -1,8 +1,6 @@
 /* [[file:../../../blender.org::*Bezier Curve][Bezier Curve:1]] */
 package bezier_test
 
-
-
 import "core:fmt"
 import "core:mem"
 import "vendor:raylib"
